@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  dep-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-10T12:27:24.667905+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e5a16357c6b3ce2cad182dca4e69a721ce9e83676cc859527d444ebf93dd008a
+    home: https://helm.sh/helm
+    name: dep-chart
+    type: application
+    sources:
+      - https://github.com/helm/charts
+    urls:
+    - dep-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-10T12:27:24.667294+05:30"
+    description: A Helm chart for Kubernetes
+    digest: da66a5f73630f1f8f14813a0af2db25b976f73b61ca982f125278ca3fa78289e
+    home: https://helm.sh/helm
+    name: dep-chart
+    type: application
+    sources:
+      - https://github.com/helm/charts
+    urls:
+    - dep-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-10T12:27:24.666656+05:30"
